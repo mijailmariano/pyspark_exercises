@@ -5,6 +5,7 @@ mm_env.py
 .ipynb_checkpoints/
 __pycache__
 *.csv
+!spec/*.log
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
